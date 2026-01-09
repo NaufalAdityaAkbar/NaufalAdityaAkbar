@@ -31,11 +31,6 @@ Saya adalah seorang **Fullstack Software Engineer** yang berfokus pada pengemban
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaufalAdityaAkbar&theme=radical" height="200" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NaufalAdityaAkbar&theme=radical" height="200" />
-</p>
-
-<p align="center">
   <i>📊 Data bahasa pemrograman otomatis diambil dari semua repository Anda</i>
 </p>
 
@@ -60,10 +55,6 @@ Saya adalah seorang **Fullstack Software Engineer** yang berfokus pada pengemban
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaufalAdityaAkbar&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaufalAdityaAkbar&theme=radical" alt="Profile Details" width="95%" />
 </p>
 
 ---
