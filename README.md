@@ -7,7 +7,7 @@
 ### 💫 Tentang Saya
 Saya adalah seorang pengembang aplikasi web (Fullstack) yang berfokus pada solusi skala besar dan efisiensi sistem. Memiliki pengalaman profesional dalam digitalisasi infrastruktur kesehatan dan kepemimpinan komunitas teknologi cloud.
 
-- 🏥 **Portofolio Utama:** Telah sukses membangun Sistem Helpdesk Terintegrasi & Pelaporan K3 di **RS Azra Bogor** (Laravel & PostgreSQL).
+- 🏥 **Portofolio Utama:** Telah sukses menyelesaikan pengembangan Sistem Helpdesk Terintegrasi & Pelaporan K3 di **RS Azra Bogor** (Laravel & PostgreSQL).
 - ☁️ **Fasilitator:** Team Leader di **Google Cloud Arcade 2025** (Agustus - Oktober 2025).
 - 🎓 **Sedang Mengerjakan:** Riset Skripsi mengenai **Natural Language Processing (NLP)** untuk klasifikasi data medis.
 - 🛡️ **Keahlian Khusus:** Membangun **Progressive Web Apps (PWA)** yang berperforma tinggi dan installable.
@@ -19,17 +19,17 @@ Saya adalah seorang pengembang aplikasi web (Fullstack) yang berfokus pada solus
   <table border="0">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalAdityaAkbar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="350px" alt="Top Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalAdityaAkbar&layout=compact&theme=tokyonight&hide_border=true" width="350px" alt="Top Languages" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=NaufalAdityaAkbar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="350px" alt="GitHub Stats" />
+        <img src="https://github-readme-stats.vercel.app/api?username=NaufalAdityaAkbar&show_icons=true&theme=tokyonight&hide_border=true" width="350px" alt="GitHub Stats" />
       </td>
     </tr>
   </table>
   
   <br/>
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaufalAdityaAkbar&theme=tokyonight&hide_border=true&area=true&bg_color=0D1117" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaufalAdityaAkbar&theme=tokyonight&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 </div>
 
 ---
