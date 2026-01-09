@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-    - main # Sesuaikan kalau branch utama lu namanya 'master'
+    - main
 
 jobs:
   generate:
