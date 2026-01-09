@@ -19,8 +19,8 @@ Saya adalah seorang **Fullstack Software Engineer** yang berfokus pada pengemban
 
 <div align="center">
   
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaufalAdityaAkbar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/NaufalAdityaAkbar)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NaufalAdityaAkbar&theme=radical&hide_border=true)](https://github.com/NaufalAdityaAkbar)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaufalAdityaAkbar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=NaufalAdityaAkbar&theme=radical&hide_border=true)
 
 </div>
 
@@ -30,14 +30,14 @@ Saya adalah seorang **Fullstack Software Engineer** yang berfokus pada pengemban
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalAdityaAkbar&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/NaufalAdityaAkbar)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalAdityaAkbar&layout=compact&theme=radical&hide_border=true&langs_count=8)
 
 </div>
 
 <div align="center">
   
-[![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaufalAdityaAkbar&theme=radical)](https://github.com/NaufalAdityaAkbar)
-[![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NaufalAdityaAkbar&theme=radical)](https://github.com/NaufalAdityaAkbar)
+![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaufalAdityaAkbar&theme=radical)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NaufalAdityaAkbar&theme=radical)
 
 </div>
 
@@ -69,9 +69,9 @@ Saya adalah seorang **Fullstack Software Engineer** yang berfokus pada pengemban
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NaufalAdityaAkbar&theme=tokyo-night&hide_border=true&area=true)](https://github.com/NaufalAdityaAkbar)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NaufalAdityaAkbar&theme=tokyo-night&hide_border=true&area=true)
 
-[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaufalAdityaAkbar&theme=radical)](https://github.com/NaufalAdityaAkbar)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaufalAdityaAkbar&theme=radical)
 
 </div>
 
@@ -114,16 +114,6 @@ Saya adalah seorang **Fullstack Software Engineer** yang berfokus pada pengemban
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 </p>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=NaufalAdityaAkbar&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/NaufalAdityaAkbar)
-
-</div>
 
 ---
 
