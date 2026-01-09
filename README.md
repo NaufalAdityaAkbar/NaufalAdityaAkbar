@@ -18,20 +18,52 @@ Saya adalah seorang **Fullstack Software Engineer** yang berfokus pada pengemban
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaufalAdityaAkbar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=NaufalAdityaAkbar&theme=radical&hide_border=true" alt="GitHub Streak" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NaufalAdityaAkbar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=NaufalAdityaAkbar&theme=radical&hide_border=true" alt="GitHub Streak" height="170" />
 </p>
 
 ---
 
-### 💻 Bahasa Pemrograman (Auto dari Repo)
+### 💻 Bahasa Pemrograman yang Sering Digunakan
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalAdityaAkbar&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" height="200" />
 </p>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaufalAdityaAkbar&theme=radical" height="200" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NaufalAdityaAkbar&theme=radical" height="200" />
+</p>
+
+<p align="center">
   <i>📊 Data bahasa pemrograman otomatis diambil dari semua repository Anda</i>
+</p>
+
+#### 📈 Keahlian Bahasa Pemrograman:
+
+<div align="center">
+
+| Bahasa | Level | Penggunaan Utama |
+|:------:|:-----:|:-----------------|
+| **PHP (Laravel)** | ⭐⭐⭐⭐⭐ | Backend Sistem Kesehatan, REST API |
+| **JavaScript/TypeScript** | ⭐⭐⭐⭐☆ | Frontend (React, Next.js), Backend (Express.js) |
+| **Python** | ⭐⭐⭐☆☆ | NLP Research, Machine Learning, Data Analysis |
+| **Go (Golang)** | ⭐⭐⭐☆☆ | Microservices, High-Performance API |
+| **Dart (Flutter)** | ⭐⭐☆☆☆ | Cross-Platform Mobile Development |
+| **SQL** | ⭐⭐⭐⭐☆ | PostgreSQL, MySQL - Database Design & Optimization |
+
+</div>
+
+---
+
+### 📈 Kontribusi & Aktivitas
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaufalAdityaAkbar&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaufalAdityaAkbar&theme=radical" alt="Profile Details" width="95%" />
 </p>
 
 ---
