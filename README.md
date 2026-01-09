@@ -15,65 +15,33 @@ Saya adalah seorang **Fullstack Software Engineer** yang berfokus pada pengemban
 
 ---
 
-### 📊 Statistik GitHub (Data-Driven)
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaufalAdityaAkbar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=NaufalAdityaAkbar&theme=radical&hide_border=true)
-
-</div>
-
----
-
-### 💻 Bahasa Pemrograman yang Sering Digunakan
-
-<div align="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalAdityaAkbar&layout=compact&theme=radical&hide_border=true&langs_count=8)
-
-</div>
-
-<div align="center">
-  
-![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaufalAdityaAkbar&theme=radical)
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NaufalAdityaAkbar&theme=radical)
-
-</div>
-
-#### 📈 Breakdown Penggunaan Bahasa:
+### 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,js,python,go,java,dart,typescript,html,css" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NaufalAdityaAkbar&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalAdityaAkbar&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
-
-<details>
-<summary><b>📊 Statistik Detail Bahasa Pemrograman</b></summary>
-
-<br/>
-
-| Bahasa | Penggunaan | Konteks Proyek |
-|--------|-----------|----------------|
-| **PHP (Laravel)** | 🟦🟦🟦🟦🟦 | Backend sistem kesehatan, API Development |
-| **JavaScript/TypeScript** | 🟦🟦🟦🟦⬜ | React, Next.js, Express.js |
-| **Python** | 🟦🟦🟦⬜⬜ | NLP Research, Data Processing |
-| **Go** | 🟦🟦🟦⬜⬜ | Microservices, High-performance APIs |
-| **Dart (Flutter)** | 🟦🟦⬜⬜⬜ | Mobile Development |
-| **SQL** | 🟦🟦🟦🟦⬜ | PostgreSQL, MySQL - Database Design |
-
-</details>
 
 ---
 
-### 📈 Kontribusi & Aktivitas
+### 💻 Tech Skills & Language Proficiency
 
-<div align="center">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nextjs,nodejs,express" alt="Skills 1" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=python,go,dart,flutter,mysql,postgres,docker,gcp" alt="Skills 2" />
+</p>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NaufalAdityaAkbar&theme=tokyo-night&hide_border=true&area=true)
+#### 📈 Keahlian Bahasa Pemrograman:
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaufalAdityaAkbar&theme=radical)
-
-</div>
+| Bahasa | Level | Penggunaan Utama |
+|--------|-------|------------------|
+| **PHP (Laravel)** | ⭐⭐⭐⭐⭐ | Backend Sistem Kesehatan, REST API |
+| **JavaScript/TypeScript** | ⭐⭐⭐⭐☆ | Frontend (React, Next.js), Backend (Express.js) |
+| **Python** | ⭐⭐⭐☆☆ | NLP Research, Machine Learning, Data Analysis |
+| **Go (Golang)** | ⭐⭐⭐☆☆ | Microservices, High-Performance API |
+| **Dart (Flutter)** | ⭐⭐☆☆☆ | Cross-Platform Mobile Development |
+| **SQL** | ⭐⭐⭐⭐☆ | PostgreSQL, MySQL - Database Design & Optimization |
 
 ---
 
