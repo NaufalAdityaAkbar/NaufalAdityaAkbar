@@ -16,8 +16,8 @@ Saya adalah seorang **Fullstack Software Engineer** yang berfokus pada pengemban
 
 ### 📊 Statistik GitHub (Data-Driven)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaufalAdityaAkbar&show_icons=true&theme=transparent&hide_border=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalAdityaAkbar&layout=compact&theme=transparent&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NaufalAdityaAkbar&show_icons=true&theme=radical&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalAdityaAkbar&layout=compact&theme=radical&hide_border=true" height="170" />
 </p>
 
 <p align="center">
@@ -56,6 +56,6 @@ Saya adalah seorang **Fullstack Software Engineer** yang berfokus pada pengemban
 ---
 
 <p align="center">
-  <i>"Scalable code and containerized solutions."</i><br/>
+  <i>"Building scalable systems with containerized solutions."</i><br/>
   <b>Ayo berkolaborasi!</b> 🚀
 </p>
