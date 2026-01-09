@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+I'm+Naufal+Aditya+Akbar;Fullstack+Developer+Intern;GCAF+2025+Team+Leader;PWA+Expert+%26+NLP+Researcher" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+I'm+Naufal+Aditya+Akbar;Fullstack+Developer;GCAF+2025+Team+Leader;PWA+Expert+%26+NLP+Researcher" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 💫 Tentang Saya
-Saya adalah seorang pengembang aplikasi web (Fullstack) yang berfokus pada solusi skala besar dan efisiensi sistem. Saat ini aktif berkontribusi dalam pengembangan sistem informasi kesehatan dan riset AI/NLP.
+Saya adalah seorang pengembang aplikasi web (Fullstack) yang berfokus pada solusi skala besar dan efisiensi sistem. Memiliki pengalaman profesional dalam digitalisasi infrastruktur kesehatan dan kepemimpinan komunitas teknologi cloud.
 
-- 🏥 **Sedang Mengerjakan:** Sistem Helpdesk & Pelaporan K3 Terintegrasi di **RS Azra Bogor**.
-- ☁️ **Fasilitator:** Team Leader di **Google Cloud Arcade 2025**.
-- 🎓 **Riset Skripsi:** Implementasi **Natural Language Processing (NLP)** untuk klasifikasi data medis.
+- 🏥 **Portofolio Utama:** Telah sukses membangun Sistem Helpdesk Terintegrasi & Pelaporan K3 di **RS Azra Bogor** (Laravel & PostgreSQL).
+- ☁️ **Fasilitator:** Team Leader di **Google Cloud Arcade 2025** (Agustus - Oktober 2025).
+- 🎓 **Sedang Mengerjakan:** Riset Skripsi mengenai **Natural Language Processing (NLP)** untuk klasifikasi data medis.
 - 🛡️ **Keahlian Khusus:** Membangun **Progressive Web Apps (PWA)** yang berperforma tinggi dan installable.
 
 ---
