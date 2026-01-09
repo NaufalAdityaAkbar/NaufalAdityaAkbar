@@ -17,23 +17,29 @@ Saya adalah seorang **Fullstack Software Engineer** yang berfokus pada pengemban
 
 ### 📊 Statistik GitHub (Data-Driven)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NaufalAdityaAkbar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NaufalAdityaAkbar&theme=radical&hide_border=true" height="170" />
-</p>
+<div align="center">
+  
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NaufalAdityaAkbar&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)](https://github.com/NaufalAdityaAkbar)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NaufalAdityaAkbar&theme=radical&hide_border=true)](https://github.com/NaufalAdityaAkbar)
+
+</div>
 
 ---
 
 ### 💻 Bahasa Pemrograman yang Sering Digunakan
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalAdityaAkbar&layout=compact&theme=radical&hide_border=true&langs_count=8" height="200" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaufalAdityaAkbar&theme=radical" width="400" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NaufalAdityaAkbar&theme=radical" width="400" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalAdityaAkbar&layout=compact&theme=radical&hide_border=true&langs_count=8)](https://github.com/NaufalAdityaAkbar)
+
+</div>
+
+<div align="center">
+  
+[![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaufalAdityaAkbar&theme=radical)](https://github.com/NaufalAdityaAkbar)
+[![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NaufalAdityaAkbar&theme=radical)](https://github.com/NaufalAdityaAkbar)
+
+</div>
 
 #### 📈 Breakdown Penggunaan Bahasa:
 
@@ -61,13 +67,13 @@ Saya adalah seorang **Fullstack Software Engineer** yang berfokus pada pengemban
 
 ### 📈 Kontribusi & Aktivitas
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NaufalAdityaAkbar&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaufalAdityaAkbar&theme=radical" width="100%" />
-</p>
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=NaufalAdityaAkbar&theme=tokyo-night&hide_border=true&area=true)](https://github.com/NaufalAdityaAkbar)
+
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NaufalAdityaAkbar&theme=radical)](https://github.com/NaufalAdityaAkbar)
+
+</div>
 
 ---
 
@@ -113,9 +119,11 @@ Saya adalah seorang **Fullstack Software Engineer** yang berfokus pada pengemban
 
 ### 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NaufalAdityaAkbar&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" />
-</p>
+<div align="center">
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=NaufalAdityaAkbar&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1)](https://github.com/NaufalAdityaAkbar)
+
+</div>
 
 ---
 
